@@ -5,3 +5,6 @@ def hi:
 def userName:
   answer = input("Enter Your Name:")
   return answer
+
+def Welcome(name):
+  print("Welcome to the World of Git")
